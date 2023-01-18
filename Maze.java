@@ -4,16 +4,6 @@ import javalib.impworld.*;
 import java.awt.Color;
 import javalib.worldimages.*;
 
-/*  Enhancements Added:
- *   - Allowing the user to clear the maze by pressing 'c' in order to allow them to perform both a
- *     bfs and dfs on the same maze. This also allows them to perform the same search on the maze
- *     multiple times if they'd like to see it again
- *   - Allowing the user the ability to start a new maze without restarting the program
- *     by pressing 'r'
- */
-
-
-
 
 // represents a vertex and its properties
 class Vertex {
