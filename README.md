@@ -8,7 +8,7 @@ This is a maze generation and pathfinding application. The app uses Kruskal's al
 The picture below shows a randomly generated maze. The starting point is green and the end is red.<br>
 ![Starting Maze](images/starting.png) <br> <br>
 
-The picture below a maze that has been solved with a depth first search. The path to the end is in dark blue.blue. <br>
+The picture below a maze that has been solved with a depth first search. The path to the end is in dark blue. <br>
 ![DFS](images/dfs.png) <br> <br>
 
 The picture below a maze that has been solved with a breadth first search. The path to the end is in dark blue. <br>
